@@ -1,0 +1,30 @@
+h1 {
+    background-color: rgb(61, 201, 201);
+    color: white;
+}
+
+.paragraph-1 {
+    background: green;
+    font-size: medium;
+    color: white;
+}
+
+.paragraph-2 {
+    border: 5px rgb(49, 243, 19);
+    border-radius: 5px;
+    font-size: 22px;
+    margin-bottom: 40px;
+    padding-left: 20px;
+}
+
+.paragraph-3 {
+    font-weight: bold;
+    font-size: 22pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.fit-picture {
+    width: 750px;
+    height: 300px;
+}
+
